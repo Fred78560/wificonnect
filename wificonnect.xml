@@ -1,0 +1,10 @@
+<item>détecte le portable de Fred<tag>data.réponse="je cherche";data.ip="192.168.X.XX";data.oui="Fred est présent sur le réseau wifi";data.non="Fred est absent sur le réseau wifi";</tag></item>
+
+<item>surveille le portable de Fred<tag>data.réponse="je surveille Fred";data.ip="192.168.X.XX";data.oui="Fred est arrivé";data.non="Fred est absent du réseau";data.surveillance="on";data.timersortie="120";data.timerfrequence="60";data.sequence="Mathilde il est quelle heure;Mathilde la météo à Paris<tag></item>
+
+<item>surveille la tablette de Fred<tag>data.réponse="je surveille la tablette";data.ip="192.168.X.XX";data.oui="tablette est arrivé";data.non="tablette est absent du réseau";data.surveillance="on";data.timersortie="120";data.timerfrequence="60";</tag></item>
+</one-of>
+
+
+
+
